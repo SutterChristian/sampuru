@@ -1,0 +1,34 @@
+{
+    "_base": "https://raw.githubusercontent.com/SutterChristian/sampuru/Breaks/01_Juicy/",
+    "juicy_sd": [
+      "juicy_sd/sd.wav",
+      "juicy_sd/sd02.wav",
+      "juicy_sd/sd03.wav",
+      "juicy_sd/sd04.wav",
+      "juicy_sd/sd05.wav",
+      "juicy_sd/sd06.wav",
+      "juicy_sd/sd07.wav",
+      "juicy_sd/sd08.wav"
+    ],
+    "juicy_bd": [
+      "juicy_bd/bd.wav",
+      "juicy_bd/bd01.wav"
+    ],
+    "juicy_hh": [
+      "juicy_hh/hh.wav",
+      "juicy_hh/hh02.wav",
+      "juicy_hh/hh03.wav",
+      "juicy_hh/hh04.wav",
+      "juicy_hh/hh05.wav",
+      "juicy_hh/hh06.wav",
+      "juicy_hh/hh07.wav",
+      "juicy_hh/hh08.wav",
+      "juicy_hh/hh09.wav",
+      "juicy_hh/hh10.wav",
+      "juicy_hh/hh11.wav",
+      "juicy_hh/hh12.wav"
+    ],
+    "juicy_rim": [
+      "juicy_rim/rim.wav"
+    ]
+  }
