@@ -11,22 +11,22 @@
     "juicy_sd/sd08.wav"
   ],
   "juicy_bd": [
-    "juicy_sd/bd.wav",
-    "juicy_sd/bd01.wav"
+    "juicy_bd/bd.wav",
+    "juicy_bd/bd01.wav"
   ],
   "juicy_hh": [
-    "juicy_sd/hh.wav",
-    "juicy_sd/hh02.wav",
-    "juicy_sd/hh03.wav",
-    "juicy_sd/hh04.wav",
-    "juicy_sd/hh05.wav",
-    "juicy_sd/hh06.wav",
-    "juicy_sd/hh07.wav",
-    "juicy_sd/hh08.wav",
-    "juicy_sd/hh09.wav",
-    "juicy_sd/hh10.wav",
-    "juicy_sd/hh11.wav",
-    "juicy_sd/hh12.wav"
+    "juicy_hh/hh.wav",
+    "juicy_hh/hh02.wav",
+    "juicy_hh/hh03.wav",
+    "juicy_hh/hh04.wav",
+    "juicy_hh/hh05.wav",
+    "juicy_hh/hh06.wav",
+    "juicy_hh/hh07.wav",
+    "juicy_hh/hh08.wav",
+    "juicy_hh/hh09.wav",
+    "juicy_hh/hh10.wav",
+    "juicy_hh/hh11.wav",
+    "juicy_hh/hh12.wav"
   ],
   "juicy_rim": [
     "juicy_rim/rim.wav"
