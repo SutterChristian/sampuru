@@ -1,36 +1,34 @@
 {
   "_base": "https://raw.githubusercontent.com/SutterChristian/sampuru/main/",
-  "juicy": {
-    "juicy_sd": [
-      "juicy_sd/sd.wav",
-      "juicy_sd/sd02.wav",
-      "juicy_sd/sd03.wav",
-      "juicy_sd/sd04.wav",
-      "juicy_sd/sd05.wav",
-      "juicy_sd/sd06.wav",
-      "juicy_sd/sd07.wav",
-      "juicy_sd/sd08.wav"
-    ],
-    "juicy_bd": [
-      "juicy_sd/bd.wav",
-      "juicy_sd/bd01.wav"
-    ],
-    "juicy_hh": [
-      "juicy_sd/hh.wav",
-      "juicy_sd/hh02.wav",
-      "juicy_sd/hh03.wav",
-      "juicy_sd/hh04.wav",
-      "juicy_sd/hh05.wav",
-      "juicy_sd/hh06.wav",
-      "juicy_sd/hh07.wav",
-      "juicy_sd/hh08.wav",
-      "juicy_sd/hh09.wav",
-      "juicy_sd/hh10.wav",
-      "juicy_sd/hh11.wav",
-      "juicy_sd/hh12.wav"
-    ],
-    "juicy_rim": [
-      "juicy_rim/rim.wav"
-    ]
-  }
+  "juicy_sd": [
+    "juicy_sd/sd.wav",
+    "juicy_sd/sd02.wav",
+    "juicy_sd/sd03.wav",
+    "juicy_sd/sd04.wav",
+    "juicy_sd/sd05.wav",
+    "juicy_sd/sd06.wav",
+    "juicy_sd/sd07.wav",
+    "juicy_sd/sd08.wav"
+  ],
+  "juicy_bd": [
+    "juicy_sd/bd.wav",
+    "juicy_sd/bd01.wav"
+  ],
+  "juicy_hh": [
+    "juicy_sd/hh.wav",
+    "juicy_sd/hh02.wav",
+    "juicy_sd/hh03.wav",
+    "juicy_sd/hh04.wav",
+    "juicy_sd/hh05.wav",
+    "juicy_sd/hh06.wav",
+    "juicy_sd/hh07.wav",
+    "juicy_sd/hh08.wav",
+    "juicy_sd/hh09.wav",
+    "juicy_sd/hh10.wav",
+    "juicy_sd/hh11.wav",
+    "juicy_sd/hh12.wav"
+  ],
+  "juicy_rim": [
+    "juicy_rim/rim.wav"
+  ]
 }
