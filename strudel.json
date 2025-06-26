@@ -1,5 +1,6 @@
 {
-    "_base": "https://raw.githubusercontent.com/SutterChristian/sampuru/main/",
+  "_base": "https://raw.githubusercontent.com/SutterChristian/sampuru/main/",
+  "juicy": {
     "juicy_sd": [
       "juicy_sd/sd.wav",
       "juicy_sd/sd02.wav",
@@ -31,4 +32,5 @@
     "juicy_rim": [
       "juicy_rim/rim.wav"
     ]
+  }
 }
