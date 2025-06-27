@@ -35,5 +35,15 @@
     "juicy_vocals/01.wav",
     "juicy_vocals/02.wav",
     "juicy_vocals/03.wav"
+  ],
+  "guitar_ukulele": [
+    "guitar_ukulele/01.wav",
+    "guitar_ukulele/02.wav",
+    "guitar_ukulele/03.wav",
+    "guitar_ukulele/04.wav",
+    "guitar_ukulele/05.wav",
+    "guitar_ukulele/06.wav",
+    "guitar_ukulele/07.wav",
+    "guitar_ukulele/08.wav"
   ]
 }
