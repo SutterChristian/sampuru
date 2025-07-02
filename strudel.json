@@ -45,5 +45,8 @@
     "guitar_ukulele/06.wav",
     "guitar_ukulele/07.wav",
     "guitar_ukulele/08.wav"
+  ],
+  "guitar_recordings": [
+    "guitar_recordings/everlong.wav"
   ]
 }
