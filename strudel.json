@@ -53,6 +53,10 @@
   "guitar_recordings": [
     "guitar_recordings/everlong.wav",
     "guitar_recordings/resonance.wav",
-    "guitar_recordings/esm.wav"
+    "guitar_recordings/esm.wav",
+    "guitar_recordings/f1.wav",
+    "guitar_recordings/f2.wav",
+    "guitar_recordings/f3.wav",
+    "guitar_recordings/f4.wav"
   ]
 }
